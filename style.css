@@ -49,3 +49,15 @@ footer {
     margin: 40px 0 10px;
     color: #777;
 }
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+#icon-instagram{
+    padding-right: 10px;
+}
+#icon-github{
+    padding-right: 10px;
+}
